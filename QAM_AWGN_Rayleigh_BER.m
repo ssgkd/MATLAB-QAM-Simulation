@@ -1,3 +1,9 @@
+%%
+% Blog : http://iamaman.tistory.com
+% Author : JKD
+% Github : https://github.com/ssgkd/MATLAB-QAM-Simulation
+
+%% 
 clc
 clear all
 

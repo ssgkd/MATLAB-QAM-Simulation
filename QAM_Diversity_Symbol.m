@@ -1,5 +1,13 @@
+%%
+% Blog : http://iamaman.tistory.com
+% Author : JKD
+% Github : https://github.com/ssgkd/MATLAB-QAM-Simulation
+
+
+%%
 clc
 clear all
+
 
 M = 16;   % M-ary
 k = log2(M); % bits per symbol
